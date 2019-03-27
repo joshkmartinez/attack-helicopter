@@ -1,0 +1,19 @@
+{
+  "name": "Attack Helicopter",
+  "alias": [
+    "heli",
+    "helicopter",
+    "iSexuallyIdentifyAsAnAttackHelicopter",
+    "attackHeli",
+    "attack",
+    "ah",
+    "ahh",
+    "attackHelicopter",
+    "apache"
+  ],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
